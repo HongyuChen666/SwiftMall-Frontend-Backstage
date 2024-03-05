@@ -1,2 +1,2 @@
-# SwiftMall-Frontend-Backstage
-BU - CS673 - Project(Frontend-Backstage) - an online shopping website
+# SwiftMall-Frontend-Management System
+BU - CS673 - Project(Frontend-Management_System) - an online shopping website
