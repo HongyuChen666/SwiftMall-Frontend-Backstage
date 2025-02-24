@@ -27,6 +27,8 @@ This project is a front-end management system developed using Vue.js, Axios, Nod
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name
+## Run
+Input "npm start" in terminal.
    
 ## Login Interface
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/b46c8d5b-c676-4bf4-8c19-6c6a955a4f88" />
