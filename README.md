@@ -17,7 +17,6 @@ This project is a front-end management system developed using Vue.js, Axios, Nod
 - **Vue.js**: Progressive JavaScript framework for building user interfaces.
 - **Axios**: Promise-based HTTP client for making requests to the back-end API.
 - **Node.js**: JavaScript runtime environment for server-side scripting.
-- **JavaScript**: Core programming language for front-end development.
 - **npm**: Package manager for managing project dependencies.
 
 ## Installation
